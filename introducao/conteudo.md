@@ -1,0 +1,48 @@
+# Java Core
+- Wrapper classes
+- Visibilidade
+- ENUM
+- Encapusulamento
+- Construtor
+- String
+- Atributos/Operações
+- Tipos primitivos
+- Classes abstratas
+- Interfaces
+- Objeto 
+- Static
+- Polimorfismos/Herança
+- Controle de exceções
+- Anotações
+- Optionals
+- REST 
+- Coleções
+- Array
+- Stream
+- Date/Time API
+- JDBC
+- Generics
+
+# Spring
+- Spring/Spring boot
+- Injeção de dependência
+- Microserviços
+- Rest template
+- Bean Validation
+- Testes JPA
+- Teste Controller
+
+# Frameworks/ferramentas/técnicas
+- Singleton
+- Diagrama de Classes
+- Git
+- Postman
+- H2
+- JPA + Hibernate
+- Code Conventions
+- Graddle
+- MVC
+- IntelliJ
+- TDD
+- Swagger
+- HTTP
