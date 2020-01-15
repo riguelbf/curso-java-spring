@@ -46,17 +46,10 @@ Torvalds queria um sistema distribuído que ele pudesse utilizar de forma simila
 
 #### Criar uma conta no GitHub
 
-<<<<<<< HEAD
-Adicionando configuração de repositório remoto: 
-- git remote add origin XXXXX (nome do repositorio)
-
-Enviando as modificações para o diretório remoto: 
-=======
 Adicionando configuração de repositório remoto:
 - git remote add origin XXXXX (nome do repositorio)
 
 Enviando as modificações para o diretório remoto:
->>>>>>> 0b7ad5e6f3fc175e7aeeb2e2297a32c67600a24f
 - git push –u origin máster (nome da branch)
 
 ## Gerenciando um projeto!!
